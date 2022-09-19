@@ -18,3 +18,5 @@
 <img  aligin ="center"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo JavaScript">
 </div>
 Apaixonada por tecnologia, e buscando  aprender mais a cada dia.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica&lshow=compact)](https://github.com/jessica/github-readme-stats)
