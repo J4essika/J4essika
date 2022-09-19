@@ -18,3 +18,4 @@
 <img  aligin ="center"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo JavaScript">
 </div>
 Apaixonada por tecnologia, e buscando  aprender mais a cada dia.
+![image](https://user-images.githubusercontent.com/109427481/190934281-0c14eeb7-a4fd-4685-b4fc-4fb812166e85.png)
