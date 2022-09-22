@@ -21,5 +21,4 @@ Apaixonada por tecnologia, e buscando  aprender mais a cada dia.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica&lshow=compact)](https://github.com/jessica/github-readme-stats)
 
-<img src="![minha-animação](https://user-images.githubusercontent.com/109427481/191799907-0ebeb42f-2eed-4d53-8fbe-25fb29fe958a.png)
-"  alt="minha foto">
+<img src="minha-animação">
